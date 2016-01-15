@@ -4,14 +4,15 @@ To easily get started with React Router and Meteor, simply run meteor add reactr
 
 Key Concepts Demonstrated
 
-React with Meteor
-Basic routing with React Router
-Routes requiring authentication
-Working with reactive data
+*React with Meteor
+*Basic routing with React Router
+*Routes requiring authentication
+*Working with reactive data
+
 In this project i have used
 
-meteor
-react
-react-router
-mandrill for mail verification and
-cognalys for otp verification
+*meteor
+*react
+*react-router
+*mandrill for mail verification and
+*cognalys for otp verification
