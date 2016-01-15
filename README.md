@@ -2,7 +2,7 @@ This is a demo application to show to how to get started with Meteor 1.2.1 using
 
 To easily get started with React Router and Meteor, simply run meteor add reactrouter:react-router.
 
-Key Concepts Demonstrated
+###Key Concepts Demonstrated###
 
 *React with Meteor
 *Basic routing with React Router
